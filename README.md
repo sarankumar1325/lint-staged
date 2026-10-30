@@ -811,7 +811,7 @@ If the process is interrupted at any point, it should be possible to restore cha
 Git 2.36.0 introduced a change to hooks where they were no longer run in the original TTY.
 This was fixed in 2.37.0:
 
-https://raw.githubusercontent.com/git/git/master/Documentation/RelNotes/2.37.0.txt
+https://raw.githubusercontent.com/git/git/master/Documentation/RelNotes/2.37.0.adoc
 
 > - In Git 2.36 we revamped the way how hooks are invoked. One change
 >   that is end-user visible is that the output of a hook is no longer
